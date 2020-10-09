@@ -21,10 +21,7 @@ public class main {
 		newStack.push2(4);
 		newStack.printStack();
 		
-		System.out.println(newStack.pop2());
-		System.out.println(newStack.pop2());
-		System.out.println(newStack.peak2());
-		System.out.println(newStack.peak2());
+		//deleted stuff
 		*/
 		}
 	
